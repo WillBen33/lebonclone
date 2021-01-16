@@ -1,0 +1,12 @@
+{
+  "name": "lebonclone",
+  "displayName": "lebonclone",
+  "expo": {
+    "name": "lebonclone",
+    "slug": "lebonclone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
